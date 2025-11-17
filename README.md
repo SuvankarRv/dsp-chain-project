@@ -1,4 +1,4 @@
-#Project name
+# Project name
 DSP Chain Project
 
 Overview
@@ -14,7 +14,7 @@ Features
 • Limiter
 • Soft clip
 • Low shelf filter
-• Shared library plugin
+• Shared library plugin 
 • Test WAV files included
 
 Requirements for Kali
