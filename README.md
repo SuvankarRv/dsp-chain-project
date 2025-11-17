@@ -1,4 +1,4 @@
-DSP Chain Project
+# DSP Chain Project
 
 Overview
 This project processes audio on Kali Linux. It supports gain, limiter, soft clip, filters, and convolution. It uses C and C plus plus. It builds correctly on Kali with CMake.
